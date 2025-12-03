@@ -1,0 +1,7 @@
+body {
+    padding-top: 56px; /* Space for fixed navbar */
+}
+
+#login-message {
+    color: red;
+}
